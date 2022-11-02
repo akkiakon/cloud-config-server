@@ -14,6 +14,6 @@ microservice:
  user-client:
    endpoints:
      endpoint:
-      uri: http://USER-CLIENT/user
+      uri: http://USER-CLIENT/user/
     
     
